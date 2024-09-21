@@ -1,4 +1,4 @@
-#UAV Flight Path Prediction using Machine Learning
+## UAV Flight Path Prediction using Machine Learning
 
 This repository contains a project that focuses on automating the prediction of UAV (Unmanned Aerial Vehicle) flight paths using machine learning models. It includes simulated flight data, model training, and 3D visualizations of both actual and predicted UAV trajectories.
 
